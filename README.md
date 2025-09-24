@@ -1,1 +1,5 @@
-# Detta är min Readme
+## Redovisning
+
+### Del 1
+För att klona mitt repository används följande kommando:
+git clone https://github.com/elro2506/Lab3.git
